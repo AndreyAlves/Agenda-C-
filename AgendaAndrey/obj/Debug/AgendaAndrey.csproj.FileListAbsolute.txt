@@ -1,0 +1,10 @@
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\bin\Debug\AgendaAndrey.exe.config
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\bin\Debug\AgendaAndrey.exe
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\bin\Debug\AgendaAndrey.pdb
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.csprojResolveAssemblyReference.cache
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.Form1.resources
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.Properties.Resources.resources
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.csproj.GenerateResource.Cache
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.csproj.CoreCompileInputs.cache
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.exe
+c:\users\bruno\source\repos\AgendaAndrey\AgendaAndrey\obj\Debug\AgendaAndrey.pdb
